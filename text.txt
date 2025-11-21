@@ -1,0 +1,5 @@
+git --Version
+Eine Zeile in der Textdatei.
+Eine weitere Zeile.
+
+Hier sind wir dann in einer weiteren Zeile.
